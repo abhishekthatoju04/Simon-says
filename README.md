@@ -1,2 +1,3 @@
 # Simon-says
-Simon-says game
+Created Simon-says game using HTML,CSS, and Javascript.
+
